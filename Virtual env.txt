@@ -1,0 +1,13 @@
+﻿# 1. Create a virtual environment
+python -m venv venv
+
+
+# 2. Activate it
+# On Windows:
+venv\Scripts\activate
+# On Mac/Linux:
+source venv/bin/activate
+
+
+# 3. Install the requirements
+pip install -r requirements.txt

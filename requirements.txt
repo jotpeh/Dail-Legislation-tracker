@@ -1,0 +1,14 @@
+# Data Ingestion & API Interaction
+requests>=2.31.0
+
+
+# Local LLM Interface
+ollama>=0.1.6
+
+
+# Utilities
+tqdm>=4.66.0
+
+# Web API
+fastapi>=0.115.0
+uvicorn>=0.30.0
