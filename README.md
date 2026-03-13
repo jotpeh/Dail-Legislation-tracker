@@ -1,11 +1,11 @@
 # Oireachtas Legislative Tracker
 
-A small command-line tool that pulls current Irish legislation, identifies recent debates, summarizes them with a local LLM, and generates weekly reports for the Dáil, Seanad, and Committees.
+A small command-line tool that pulls current Irish legislation, identifies recent debates, summarises them with a local LLM, and generates weekly reports for the Dáil, Seanad, and Committees.
 
 ## What it does
 - Fetches active bills from the Oireachtas API
 - Backfills the earliest known initiation date for each bill
-- Finds relevant debates and summarizes them locally
+- Finds relevant debates and summarises them locally
 - Produces separate weekly reports per chamber
 
 ## Usage
